@@ -23,6 +23,6 @@ api.add_resource(AlunosSearch, '/buscar_todos')
 '''
 @app.route("/")
 def index():
-    return "<h1> Minha Aplicação em Flask</h1>"
+    return "<h1> Cadastro de Alunos </h1>"
 '''
 

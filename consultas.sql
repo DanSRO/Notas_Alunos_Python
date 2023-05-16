@@ -1,1 +1,1 @@
-select*from survivors;
+select*from alunos;
